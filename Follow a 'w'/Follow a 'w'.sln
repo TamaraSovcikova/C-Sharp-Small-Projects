@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Follow a 'w'", "Follow a 'w'\Follow a 'w'.csproj", "{11A8FBF6-E9F1-4657-B0C2-82853BCEBC18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A8FBF6-E9F1-4657-B0C2-82853BCEBC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A8FBF6-E9F1-4657-B0C2-82853BCEBC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A8FBF6-E9F1-4657-B0C2-82853BCEBC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A8FBF6-E9F1-4657-B0C2-82853BCEBC18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F230A184-3027-41C6-B6D2-9D7A51531765}
+	EndGlobalSection
+EndGlobal
