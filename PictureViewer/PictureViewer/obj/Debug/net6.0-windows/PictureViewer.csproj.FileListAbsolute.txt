@@ -1,0 +1,17 @@
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.deps.json
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.runtimeconfig.json
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.dll
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.Form1.resources
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.GenerateResource.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.AssemblyInfoInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.AssemblyInfo.cs
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.dll
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\refint\PictureViewer.dll
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.genruntimeconfig.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\PictureViewer\PictureViewer\obj\Debug\net6.0-windows\ref\PictureViewer.dll
