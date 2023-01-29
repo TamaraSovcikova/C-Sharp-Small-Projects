@@ -1,0 +1,8 @@
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Roman To Decimal\Roman To Decimal\bin\Debug\Roman To Decimal.exe.config
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Roman To Decimal\Roman To Decimal\bin\Debug\Roman To Decimal.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Roman To Decimal\Roman To Decimal\bin\Debug\Roman To Decimal.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Roman To Decimal\Roman To Decimal\obj\Debug\Roman To Decimal.csproj.AssemblyReference.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Roman To Decimal\Roman To Decimal\obj\Debug\Roman To Decimal.csproj.SuggestedBindingRedirects.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Roman To Decimal\Roman To Decimal\obj\Debug\Roman To Decimal.csproj.CoreCompileInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Roman To Decimal\Roman To Decimal\obj\Debug\Roman To Decimal.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Roman To Decimal\Roman To Decimal\obj\Debug\Roman To Decimal.pdb
