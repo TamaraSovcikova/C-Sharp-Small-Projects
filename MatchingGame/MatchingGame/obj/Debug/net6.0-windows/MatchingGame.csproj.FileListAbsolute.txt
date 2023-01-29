@@ -1,0 +1,17 @@
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.deps.json
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.runtimeconfig.json
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.dll
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.Form1.resources
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.csproj.GenerateResource.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.AssemblyInfoInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.AssemblyInfo.cs
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.dll
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\refint\MatchingGame.dll
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.genruntimeconfig.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\ref\MatchingGame.dll

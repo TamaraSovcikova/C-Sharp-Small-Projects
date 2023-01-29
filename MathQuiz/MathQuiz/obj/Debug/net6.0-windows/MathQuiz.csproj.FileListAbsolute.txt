@@ -1,0 +1,17 @@
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\bin\Debug\net6.0-windows\MathQuiz.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\bin\Debug\net6.0-windows\MathQuiz.deps.json
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\bin\Debug\net6.0-windows\MathQuiz.runtimeconfig.json
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\bin\Debug\net6.0-windows\MathQuiz.dll
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\bin\Debug\net6.0-windows\MathQuiz.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.Form1.resources
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.csproj.GenerateResource.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.AssemblyInfoInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.AssemblyInfo.cs
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.dll
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\refint\MathQuiz.dll
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.genruntimeconfig.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\ref\MathQuiz.dll
