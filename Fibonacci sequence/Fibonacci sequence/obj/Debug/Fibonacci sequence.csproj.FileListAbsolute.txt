@@ -1,0 +1,8 @@
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Fibonacci sequence\Fibonacci sequence\bin\Debug\Fibonacci sequence.exe.config
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Fibonacci sequence\Fibonacci sequence\bin\Debug\Fibonacci sequence.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Fibonacci sequence\Fibonacci sequence\bin\Debug\Fibonacci sequence.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Fibonacci sequence\Fibonacci sequence\obj\Debug\Fibonacci sequence.csproj.AssemblyReference.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Fibonacci sequence\Fibonacci sequence\obj\Debug\Fibonacci sequence.csproj.SuggestedBindingRedirects.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Fibonacci sequence\Fibonacci sequence\obj\Debug\Fibonacci sequence.csproj.CoreCompileInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Fibonacci sequence\Fibonacci sequence\obj\Debug\Fibonacci sequence.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Fibonacci sequence\Fibonacci sequence\obj\Debug\Fibonacci sequence.pdb
