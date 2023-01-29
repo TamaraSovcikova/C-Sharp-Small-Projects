@@ -1,0 +1,8 @@
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Bubble sort\Bubble sort\bin\Debug\Bubble sort.exe.config
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Bubble sort\Bubble sort\bin\Debug\Bubble sort.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Bubble sort\Bubble sort\bin\Debug\Bubble sort.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Bubble sort\Bubble sort\obj\Debug\Bubble sort.csproj.AssemblyReference.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Bubble sort\Bubble sort\obj\Debug\Bubble sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Bubble sort\Bubble sort\obj\Debug\Bubble sort.csproj.CoreCompileInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Bubble sort\Bubble sort\obj\Debug\Bubble sort.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Bubble sort\Bubble sort\obj\Debug\Bubble sort.pdb

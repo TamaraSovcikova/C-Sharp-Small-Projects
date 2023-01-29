@@ -1,0 +1,8 @@
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Capital Word Checker\Capital Word Checker\bin\Debug\Capital Word Checker.exe.config
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Capital Word Checker\Capital Word Checker\bin\Debug\Capital Word Checker.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Capital Word Checker\Capital Word Checker\bin\Debug\Capital Word Checker.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Capital Word Checker\Capital Word Checker\obj\Debug\Capital Word Checker.csproj.AssemblyReference.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Capital Word Checker\Capital Word Checker\obj\Debug\Capital Word Checker.csproj.SuggestedBindingRedirects.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Capital Word Checker\Capital Word Checker\obj\Debug\Capital Word Checker.csproj.CoreCompileInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Capital Word Checker\Capital Word Checker\obj\Debug\Capital Word Checker.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Capital Word Checker\Capital Word Checker\obj\Debug\Capital Word Checker.pdb

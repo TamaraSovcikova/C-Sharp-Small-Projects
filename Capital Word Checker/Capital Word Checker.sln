@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capital Word Checker", "Capital Word Checker\Capital Word Checker.csproj", "{B58E80A6-E2FB-4AC9-8C7E-2E980AF66303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B58E80A6-E2FB-4AC9-8C7E-2E980AF66303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58E80A6-E2FB-4AC9-8C7E-2E980AF66303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58E80A6-E2FB-4AC9-8C7E-2E980AF66303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58E80A6-E2FB-4AC9-8C7E-2E980AF66303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED9BD22B-DFBA-45DF-80CB-9C2C60698E1B}
+	EndGlobalSection
+EndGlobal

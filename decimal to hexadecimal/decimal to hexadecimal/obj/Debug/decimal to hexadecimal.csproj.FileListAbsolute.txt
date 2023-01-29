@@ -1,0 +1,8 @@
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\decimal to hexadecimal\decimal to hexadecimal\bin\Debug\decimal to hexadecimal.exe.config
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\decimal to hexadecimal\decimal to hexadecimal\bin\Debug\decimal to hexadecimal.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\decimal to hexadecimal\decimal to hexadecimal\bin\Debug\decimal to hexadecimal.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\decimal to hexadecimal\decimal to hexadecimal\obj\Debug\decimal to hexadecimal.csproj.AssemblyReference.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\decimal to hexadecimal\decimal to hexadecimal\obj\Debug\decimal to hexadecimal.csproj.SuggestedBindingRedirects.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\decimal to hexadecimal\decimal to hexadecimal\obj\Debug\decimal to hexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\decimal to hexadecimal\decimal to hexadecimal\obj\Debug\decimal to hexadecimal.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\decimal to hexadecimal\decimal to hexadecimal\obj\Debug\decimal to hexadecimal.pdb

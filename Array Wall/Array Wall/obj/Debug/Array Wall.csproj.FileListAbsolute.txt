@@ -1,0 +1,8 @@
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Array Wall\Array Wall\bin\Debug\Array Wall.exe.config
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Array Wall\Array Wall\bin\Debug\Array Wall.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Array Wall\Array Wall\bin\Debug\Array Wall.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Array Wall\Array Wall\obj\Debug\Array Wall.csproj.AssemblyReference.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Array Wall\Array Wall\obj\Debug\Array Wall.csproj.SuggestedBindingRedirects.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Array Wall\Array Wall\obj\Debug\Array Wall.csproj.CoreCompileInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Array Wall\Array Wall\obj\Debug\Array Wall.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Array Wall\Array Wall\obj\Debug\Array Wall.pdb

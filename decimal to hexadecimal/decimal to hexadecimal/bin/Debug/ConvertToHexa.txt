@@ -1,0 +1,4 @@
+input = 4568output = 11D8
+input = 698output = 2BA
+input = 4598      output = 11F6
+input = 5623      output = 15F7

@@ -1,0 +1,8 @@
+C:\Users\W50032682\source\repos\copy array\bin\Debug\copy array.exe.config
+C:\Users\W50032682\source\repos\copy array\bin\Debug\copy array.exe
+C:\Users\W50032682\source\repos\copy array\bin\Debug\copy array.pdb
+C:\Users\W50032682\source\repos\copy array\obj\Debug\copy array.csproj.AssemblyReference.cache
+C:\Users\W50032682\source\repos\copy array\obj\Debug\copy array.csproj.SuggestedBindingRedirects.cache
+C:\Users\W50032682\source\repos\copy array\obj\Debug\copy array.csproj.CoreCompileInputs.cache
+C:\Users\W50032682\source\repos\copy array\obj\Debug\copy array.exe
+C:\Users\W50032682\source\repos\copy array\obj\Debug\copy array.pdb
