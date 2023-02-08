@@ -1,0 +1,8 @@
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Car Parking App\Car Parking App\obj\Debug\Car Parking App.csproj.AssemblyReference.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Car Parking App\Car Parking App\obj\Debug\Car Parking App.csproj.SuggestedBindingRedirects.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Car Parking App\Car Parking App\obj\Debug\Car Parking App.csproj.CoreCompileInputs.cache
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Car Parking App\Car Parking App\bin\Debug\Car Parking App.exe.config
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Car Parking App\Car Parking App\bin\Debug\Car Parking App.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Car Parking App\Car Parking App\bin\Debug\Car Parking App.pdb
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Car Parking App\Car Parking App\obj\Debug\Car Parking App.exe
+C:\Users\tamar\OneDrive\Documents\MY WORK\SCHOOL\Worthing College Work\Computer Science\C#\CS Practice Projects\Car Parking App\Car Parking App\obj\Debug\Car Parking App.pdb
